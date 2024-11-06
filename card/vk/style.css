@@ -1,0 +1,52 @@
+
+.img{
+display: flex;
+justify-content: center;
+padding-top: 50px;
+
+}
+.log{
+    display: grid;
+    border: 2px solid rgb(141, 137, 137) ;
+    box-shadow: 0 4px 8px 0 rgb(90, 85, 85),0 8px 20px 0 rgb(204, 196, 196) ;
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+    margin-left: 480px;
+    margin-top: -10px;
+    background-color: white;
+    
+}
+.log input{
+border-radius: 5px;
+width: 280px;
+margin-left: 50px;
+padding: 10px;
+}
+
+.tab{
+padding:20px;
+}
+button{
+    border-radius: 5px;
+    font-size: medium;
+    padding: 10px;
+    padding-left: 35%;
+    padding-right: 35%;
+    cursor: pointer;
+    background-color: rgba(31, 31, 226, 0.849);
+    color:white;
+    font-weight: bold;
+}
+.gt{
+    margin-bottom: 10px;
+}
+.card-bg{
+    background-color: #f2f4f7;
+  margin-top: -10px;
+  padding-bottom: 100px;
+}
+h3{
+    color: rgb(71, 71, 211);
+    cursor: pointer;
+}
